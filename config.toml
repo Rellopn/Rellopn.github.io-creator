@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-cn'
+title = '自己的小窝窝'
+theme = "mini"
